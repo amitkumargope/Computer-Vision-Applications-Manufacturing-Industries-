@@ -4,9 +4,6 @@
 By the end of 6 months, you should:
 
 * Demonstrate deep understanding of computer vision foundations (traditional + deep learning)
-* Have **5–7 strong GitHub repositories** showcasing practical, optimized, and well-documented projects
-* Be comfortable reading and implementing research papers
-* Be interview-ready for CV-focused roles in industry or research
 
 ---
 
@@ -20,23 +17,6 @@ By the end of 6 months, you should:
 | 4     | Object Detection & Segmentation  | YOLO, Mask R-CNN, U-Net                              | 2 end-to-end projects                   |
 | 5     | Domain-specific CV Applications  | OCR, pose estimation, medical/industrial vision      | 1–2 applied projects                    |
 | 6     | Research & Portfolio Polish      | Self-supervised learning, fine-tuning, documentation | Final portfolio + blog/paper-style repo |
-
----
-**Projects:**
-
-1. **Self-Supervised Representation Learning**
-
-   * Train SimCLR/DINO on a small dataset.
-   * Fine-tune for downstream tasks.
-   * *Goal:* Show research-level comprehension.
-
-2. **Final Portfolio + Documentation**
-
-   * Refine all GitHub repos:
-
-     * Add READMEs with architecture diagrams.
-     * Add requirements.txt, Dockerfile, model checkpoints.
-     * Write blog-style technical summaries for each project.
 
 ---
 
