@@ -1,5 +1,11 @@
-# Computer-Vision-Applications-Manufacturing-Industries
+
+![3](https://github.com/user-attachments/assets/e7b81e96-fc82-4da7-8d74-026b52b46f3d)
+![watermarked-ba755225-9136-4038-996d-478a43e9f853](https://github.com/user-attachments/assets/861aaecf-db02-4428-b26b-baebdc2aed08)
+
+
+ # Computer-Vision-Applications-Manufacturing-Industries
 ## 🎯 **Overall Objective**
+![Uploading watermarked-ba755225-9136-4038-996d-478a43e9f853.jpg…]()
 
 By the end of 6 months, you should:
 
