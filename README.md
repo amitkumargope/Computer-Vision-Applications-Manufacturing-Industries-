@@ -1,7 +1,5 @@
 # Computer-Vision-Applications-Manufacturing-Industries
 ## 🎯 **Overall Objective**
-![Uploading watermarked-ba755225-9136-4038-996d-478a43e9f853.jpg…]()
-
 By the end of 6 months, you should:
 
 * Demonstrate deep understanding of computer vision foundations (traditional + deep learning)
